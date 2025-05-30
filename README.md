@@ -1,4 +1,4 @@
-# NoMoreNoiseAdd commentMore actions
+# NoMoreNoise
 Hi professore, I and Mattia (my co-worker) have worked a lot for this homework, we have tried to reach the baseline in various ways. Read the requirements.txt file for the requirements needed.
 
 
