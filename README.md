@@ -9,6 +9,10 @@ Latter we tried multiple days to make the model work and reach the real baseline
 
 ## How to run
 
-run it inside your console, located in the directory
+Run it inside your console, located in the directory
 
 `python main.py --test_path <path_to_test.json.gz> --train_path <optional_path_to_train.json.gz> --num_cycles 5 --pretrain_paths <path_to_pretrain.txt> `
+
+To obtain the csv output, without training or after it, run this:
+
+`python main.py --test_path <path_to_test.json.gz> `
