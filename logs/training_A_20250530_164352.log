@@ -1,0 +1,10 @@
+2025-05-30 16:43:52,366 [INFO] Starting training using datasets\A\train.json.gz
+2025-05-30 16:45:15,961 [INFO] Loaded 1 pretrained models from model_paths_A.txt
+2025-05-30 16:45:15,971 [INFO] 
+Starting cycle 1 with seed 1
+2025-05-30 16:46:01,226 [INFO] 
+Starting training cycle 1
+2025-05-30 16:46:01,420 [INFO] Loaded pretrained model: checkpoints\model_A_cycle_10_epoch_4_loss_0.893_f1_0.759.pth
+2025-05-30 16:46:10,111 [INFO] New best model saved: checkpoints/model_A_cycle_1_epoch_0_loss_0.729_f1_0.747.pth
+2025-05-30 16:46:10,111 [INFO] Best validation metrics - Loss: 0.7292, F1: 0.7472
+2025-05-30 16:46:35,466 [INFO] Warm-up epochs finished
