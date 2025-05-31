@@ -1,5 +1,5 @@
 # NoMoreNoise
-Hi professore, I and Mattia (my co-worker) have worked a lot for this homework, we have tried to reach the baseline in various ways. Read the requirements.txt file for the requirements needed.
+Dear professor, this is our (Simone La Bella 1995847 and Mattia Di Marco 2019367) work for the hackaton of Deep Learning courses, we have tried to reach the baseline in various ways. Read the requirements.txt file for the requirements needed.
 
 
 ## Early Approches
